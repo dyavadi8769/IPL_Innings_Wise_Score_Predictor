@@ -205,14 +205,16 @@ body{
 	top:1px;
 }
 
-/* Footer */
-.footer{
-	background-color: #E9E9E9;
-	color: #000000;
-	padding: 12px;
+.footer {
+    background-color: #E9E9E9;
+    color: #000000;
+    padding: 12px;
     text-align: center;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
 }
-
 .contact-icon{
 	color: #000000;
 	padding: 7px;
