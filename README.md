@@ -63,3 +63,11 @@ The IPL Innings Wise Score Predictor leverages past 17 years IPL data to train a
 1. Contributions are welcome! Please fork the repository and create a pull request with your changes. 
 2. Ensure that your code adheres to the project's coding standards.
 
+# Author:
+
+```bash
+Author: Sai Kiran Reddy Dyavadi
+Role  : Data Scientist
+Email : dyavadi324@gmail.com
+```
+
